@@ -1,6 +1,6 @@
 # Instagram-feed-cell
 
-Completed feed view(main info in Instagram-feed-cell/Instagram-feed-cell/Controller/Home)
+Completed intagram like feed view(main info in Instagram-feed-cell/Instagram-feed-cell/Controller/Home)
 we have:
 - HomeVC.swift // Main view controller with feed
 - ImageCell.swift // Image content view cell(for SwipeCollectionView from HomeVC.swift)
