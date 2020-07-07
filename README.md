@@ -10,4 +10,5 @@ we have:
 
 
 HomeVC in action :)
+
 ![Demo](/Readme-Resources/demo.gif "DemoGif")
